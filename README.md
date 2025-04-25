@@ -11,16 +11,6 @@
 
 Merge experience orbs and instant pickup experience orbs to reduce lag!
 
-Version: `1.21.5`
-
-## 📂 Installation
-
-Move the downloaded file in the path `.minecraft/saves/[world]/datapacks`
-
-## 👾 Bugs/Issues
-
-Please report any problem/bug/issues in the [Discord Server](https://discord.gg/5UdcDa5xNC).
-
 ## ⌨️ Commands
 
 Config:
@@ -28,6 +18,8 @@ Config:
 ```mcfunction
 /function clumps:config
 ```
+
+Instant pickup experience orbs option is not compatible with Mending enchantment!
 
 ## 🪪 License
 
