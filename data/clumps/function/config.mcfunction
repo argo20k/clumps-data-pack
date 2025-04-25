@@ -1,7 +1,7 @@
 function clumps:utils/clear_chat
 
 tellraw @s [{text:"==========[ ",color:"gray"},{text:"Clumps",color:"white",bold:true},{text:" ]==========",color:"gray"}]
-tellraw @s [{color:"gray",text:"Version: "},{color:"aqua",text:"v1.0.0"}]
+tellraw @s [{color:"gray",text:"Version: "},{color:"aqua",text:"v1.0.3"}]
 
 tellraw @s ""
 
